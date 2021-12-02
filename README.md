@@ -1,5 +1,5 @@
 # LittleBigPlanetPrivateServerPatcher
-Private Server Patcher for LBP1/2 &amp; 3 Eboots
+Private Server Patcher for the Little Big Planet Games
 
 
 ### Features:
@@ -9,8 +9,28 @@ Private Server Patcher for LBP1/2 &amp; 3 Eboots
 
 
 ### TODO:
-- add filter for certain games(this will make it easier to search)<br />
-- host 24/7 server list(ServerList is hosted but it isnt 24/7)<br />
+- add filter for certain games<br />
+- host 24/7 server list[^2]<br />
 - utilize TCP client with PS3 to automatically find the user's EBOOT in the correct folder for them
+- Decrypt the eboot.bin
 - Add support for LBP Vita,PSP and Karting  
 
+
+[^2]: it is being hosted but only temporarly
+
+
+### Prequisites:
+- Lastest version of java
+- Eboot Decrypted on pc.[^3]
+
+[^3]:This shouldnt be a problem in the future, since the goal is to decrypt it on the patcher
+
+
+# How to run:
+Install the lastest version of [java](https://www.java.com/en/download/ie_manual.jsp).
+Then you have to simply run the program by downloading it from the [Releases](https://github.com/SyngletOxygen/LittleBigPlanetPrivateServerPatcher/releases) tab. <br />
+Select the ´.elf´[^4] file, put the server dns / select it from the server list on the right, and write the name of the patched elf.[^5]<br />
+And if you have done everything right, you shall press "Patch!"
+
+[^4]:this is the file that the Decryptor gives when the file is ... well .... decrypted.
+[^5]:this file will be the output of the Patcher, the extension is <FILENAME>.patched. , you can write any folder, if you just write the name of the file, it will get set on the same folder as the patcher.
