@@ -52,7 +52,7 @@ And if you have done everything right, you shall press "Patch!"
 | Games                              |Status                 |Way it is tested|
 |------------------------------------|-----------------------|----------------|
 | LittleBigPlanet  Deploy build      |<ul><li> [ ] </li></ul>|N/A             |
-| <to be decided>                    |<ul><li> [ ] </li></ul>|N/A             |
+| to be decided                      |<ul><li> [ ] </li></ul>|N/A             |
 
 
 
