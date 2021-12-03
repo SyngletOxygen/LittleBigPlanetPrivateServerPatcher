@@ -29,7 +29,7 @@ Private Server Patcher for the LittleBigPlanet Games
 # How to run:
 Install the lastest version of [java](https://www.java.com/en/download/ie_manual.jsp).
 Then you have to simply run the program by downloading it from the [Releases](https://github.com/SyngletOxygen/LittleBigPlanetPrivateServerPatcher/releases) tab. <br />
-Select the ´.elf´[^4] file, put the server dns / select it from the server list on the right, and write the name of the patched elf.[^5]<br />
+Select the ´.elf´[^4] file, put the server dns / select it from the server list on the right side of the program, and write the name of the patched elf.[^5]<br />
 And if you have done everything right, you shall press "Patch!"
 
 [^4]:this is the file that the Decryptor gives when the file is ... well .... decrypted.
