@@ -1,4 +1,4 @@
-# LittleBigPlanetPrivateServerPatcher
+# LittleBigPlanet Private Server Patcher
 Private Server Patcher for the LittleBigPlanet Games
 
 
