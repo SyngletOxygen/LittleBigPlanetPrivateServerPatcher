@@ -38,21 +38,21 @@ And if you have done everything right, you shall press "Patch!"
 
 ### Main games:
 
-| GAMES                  |Status                 |Way it is tested|
-|------------------------|-----------------------|----------------|
-| LittleBigPlanet1       |<ul><li> [x] </li></ul>|90% sure,need testing|
-| LittleBigPlanet2       |<ul><li> [x] </li></ul>|Fully Supported|
-| LittleBigPlanet3       |<ul><li> [x] </li></ul>|On version 0.27+|
-| LittleBigPlanet PsVita |<ul><li> [ ] </li></ul>|N/A|
-| LittleBigPlanet PSP    |<ul><li> [ ] </li></ul>|N/A|
-| LittleBigPlanet Karting|<ul><li> [ ] </li></ul>|N/A|
+| GAMES                  |Status                 |support spectrum     |Patcher version|
+|------------------------|-----------------------|---------------------|---------------|
+| LittleBigPlanet1       |<ul><li> [x] </li></ul>|90% sure,need testing|0.26+|
+| LittleBigPlanet2       |<ul><li> [x] </li></ul>|Fully Supported      |0.25+|
+| LittleBigPlanet3       |<ul><li> [x] </li></ul>|90% sure             |N/A|
+| LittleBigPlanet PsVita |<ul><li> [ ] </li></ul>|N/A                  |N/A|
+| LittleBigPlanet PSP    |<ul><li> [ ] </li></ul>|N/A                  |N/A|
+| LittleBigPlanet Karting|<ul><li> [ ] </li></ul>|N/A                  |N/A|
 
 
 ### Non Mainline games:
-| Games                              |Status                 |Way it is tested|
-|------------------------------------|-----------------------|----------------|
-| LittleBigPlanet  Deploy build      |<ul><li> [ ] </li></ul>|N/A             |
-| to be decided                      |<ul><li> [ ] </li></ul>|N/A             |
+| Games                              |Status                 |support spectrum|Patcher version|
+|------------------------------------|-----------------------|----------------|---------------|
+| LittleBigPlanet  Deploy build      |<ul><li> [ ] </li></ul>|N/A             |N/A            |
+| to be decided                      |<ul><li> [ ] </li></ul>|N/A             |N/A            |
 
 
 
