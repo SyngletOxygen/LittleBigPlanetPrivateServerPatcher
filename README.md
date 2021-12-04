@@ -42,7 +42,7 @@ And if you have done everything right, you shall press "Patch!"
 |------------------------|-----------------------|----------------|
 | LittleBigPlanet1       |<ul><li> [x] </li></ul>|90% sure,need testing|
 | LittleBigPlanet2       |<ul><li> [x] </li></ul>|Fully Supported|
-| LittleBigPlanet3       |<ul><li> [x] </li></ul>|90% sure, need testing|
+| LittleBigPlanet3       |<ul><li> [x] </li></ul>|On version 0.27+|
 | LittleBigPlanet PsVita |<ul><li> [ ] </li></ul>|N/A|
 | LittleBigPlanet PSP    |<ul><li> [ ] </li></ul>|N/A|
 | LittleBigPlanet Karting|<ul><li> [ ] </li></ul>|N/A|
