@@ -40,7 +40,7 @@ And if you have done everything right, you shall press "Patch!"
 
 | GAMES                  |Status                 |Way it is tested|
 |------------------------|-----------------------|----------------|
-| LittleBigPlanet1       |<ul><li> [ ] </li></ul>|Dont know|
+| LittleBigPlanet1       |<ul><li> [x] </li></ul>|90% sure|
 | LittleBigPlanet2       |<ul><li> [x] </li></ul>|Fully Supported|
 | LittleBigPlanet3       |<ul><li> [ ] </li></ul>|N/A|
 | LittleBigPlanet PsVita |<ul><li> [ ] </li></ul>|N/A|
