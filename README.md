@@ -40,9 +40,9 @@ And if you have done everything right, you shall press "Patch!"
 
 | GAMES                  |Status                 |Way it is tested|
 |------------------------|-----------------------|----------------|
-| LittleBigPlanet1       |<ul><li> [x] </li></ul>|90% sure|
+| LittleBigPlanet1       |<ul><li> [x] </li></ul>|90% sure,need testing|
 | LittleBigPlanet2       |<ul><li> [x] </li></ul>|Fully Supported|
-| LittleBigPlanet3       |<ul><li> [ ] </li></ul>|N/A|
+| LittleBigPlanet3       |<ul><li> [x] </li></ul>|90% sure, need testing|
 | LittleBigPlanet PsVita |<ul><li> [ ] </li></ul>|N/A|
 | LittleBigPlanet PSP    |<ul><li> [ ] </li></ul>|N/A|
 | LittleBigPlanet Karting|<ul><li> [ ] </li></ul>|N/A|
