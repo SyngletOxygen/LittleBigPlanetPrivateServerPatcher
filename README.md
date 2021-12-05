@@ -1,5 +1,5 @@
 # LittleBigPlanet Private Server Patcher
-Private Server Patcher for the LittleBigPlanet Games
+Private Server Patcher for the LittleBigPlanet Games based of [Jvy's patcher](https://github.com/LBPUnion/UnionPatcher).
 
 
 
