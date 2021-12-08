@@ -29,7 +29,7 @@ Private Server Patcher for the LittleBigPlanet Games based of [Jvy's patcher](ht
 
 
 # How to run:
-1. Install [java 11](https://www.oracle.com/ar/java/technologies/javase/jdk11-archive-downloads.html) or dont install anything if you have a superior version.
+1. Install java 11 [Windows Installer](https://download.oracle.com/otn/java/jdk/11.0.12%2B8/f411702ca7704a54a79ead0c2e0942a3/jdk-11.0.12_windows-x64_bin.exe) |[MacOs installer](https://download.oracle.com/otn/java/jdk/11.0.12%2B8/f411702ca7704a54a79ead0c2e0942a3/jdk-11.0.12_osx-x64_bin.tar.gz) or dont install anything if you have a superior version.
 2. Then you have to simply run the program by downloading it from the [Releases](https://github.com/SyngletOxygen/LittleBigPlanetPrivateServerPatcher/releases) tab.
 3. Select the ´.elf´[^3] file, put the server dns / select it from the server list on the right side of the program *WITHOUT* the protocol (HTTP:// or HTTPS://) .
 4. Choose the games that you are patching and write the name of the patched elf.[^4]
