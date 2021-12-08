@@ -22,14 +22,14 @@ Private Server Patcher for the LittleBigPlanet Games based of [Jvy's patcher](ht
 
 
 ### Prequisites:
-- Lastest version of java
+- Java 11 or superior
 - Eboot Decrypted on pc.[^2]
 
 [^2]:This shouldnt be a problem in the future, since the goal is to decrypt it on the patcher
 
 
 # How to run:
-1. Install the lastest version of [java](https://www.java.com/en/download/ie_manual.jsp).
+1. Install [java 11](https://www.oracle.com/ar/java/technologies/javase/jdk11-archive-downloads.html) or dont install anything if you have a superior version.
 2. Then you have to simply run the program by downloading it from the [Releases](https://github.com/SyngletOxygen/LittleBigPlanetPrivateServerPatcher/releases) tab.
 3. Select the ´.elf´[^3] file, put the server dns / select it from the server list on the right side of the program *WITHOUT* the protocol (HTTP:// or HTTPS://) .
 4. Choose the games that you are patching and write the name of the patched elf.[^4]
