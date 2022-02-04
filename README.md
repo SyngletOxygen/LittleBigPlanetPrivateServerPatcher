@@ -1,7 +1,8 @@
 # LittleBigPlanet Private Server Patcher
 Private Server Patcher for the LittleBigPlanet Games based of [Jvy's patcher](https://github.com/LBPUnion/UnionPatcher).
 
-
+### Important!
+this version is being made on my free time, i might do random updates tho im not entirely sure if i may continue doing this!
 
 ### Features:
 
